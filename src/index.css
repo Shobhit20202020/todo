@@ -1,0 +1,132 @@
+/* .main_div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #F5F5F5;
+}
+
+.center_div {
+  width: 400px;
+  background-color: white;
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+
+h1 {
+  text-align: center;
+  font-size: 36px;
+  color: #333333;
+  margin-bottom: 20px;
+  background-color: gray;
+}
+
+input[type="text"] {
+  width: 80%;
+  padding: 10px;
+  border: none;
+  border-bottom: 2px solid #cccccc;
+  font-size: 18px;
+  color: #333333;
+  margin-bottom: 20px;
+}
+button {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 22px;
+  font-size: 18px;
+  cursor: pointer;
+  width:40px
+}
+
+
+
+ol {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  font-size: 24px;
+  color: #333333;
+  margin-bottom: 10px;
+} */
+
+.main_div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #F5F5F5;
+}
+
+.center_div {
+  width: 400px;
+  background-color: white;
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+
+h1 {
+  text-align: center;
+  font-size: 36px;
+  color: #333333;
+  margin-bottom: 20px;
+  background-color: gray;
+}
+
+input[type="text"] {
+  width: 80%;
+  padding: 10px;
+  border: none;
+  border-bottom: 2px solid #cccccc;
+  font-size: 18px;
+  color: #333333;
+  margin-bottom: 20px;
+}
+
+button {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 22px;
+  font-size: 18px;
+  cursor: pointer;
+  width:40px;
+}
+
+ol {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  font-size: 24px;
+  color: #333333;
+  margin-bottom: 10px;
+}
+
+li button {
+  background-color: #FF5722;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 10px;
+  font-size: 14px;
+  cursor: pointer;
+  margin-left: 10px;
+  transition: background-color 0.3s ease;
+}
+
+li button:hover {
+  background-color: #F44336;
+}
+
+
